@@ -36,6 +36,5 @@ public class Mejia_Trigo_PlantillaEmpleados {
         System.out.println("Tarifa por Hora: Lps." + tarifaPorHora);
         System.out.println("Salario del empleado semanal: Lps." + salario_semanal);
         
-        
     }
 }
