@@ -16,16 +16,16 @@ public class Mejia_Trigo_Cuotas {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-        System.out.print("Ingrese el monto del préstamo: HNL ");
+        System.out.print("Ingrese el monto del prestamo: HNL ");
         double montoPrestamo = sc.nextDouble();
         
         System.out.print("Ingrese el plazo en meses: ");
         int plazo = sc.nextInt();
         
-        System.out.print("Ingrese el interés mensual: % ");
+        System.out.print("Ingrese el interes mensual: % ");
         double interesMensual = sc.nextDouble() / 100;
         
-        System.out.print("Ingrese comisión por cuota: HNL ");
+        System.out.print("Ingrese comision por cuota: HNL ");
         double comisionPorCuota = sc.nextDouble();
         
         System.out.print("Ingrese porcentaje de seguro mensual aplicado a la cuota: % ");
